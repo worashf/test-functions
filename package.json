@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": " stringLength.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "test": "jest"
   },
@@ -20,5 +20,11 @@
   "homepage": "https://github.com/worashf/test-functions#readme",
   "dependencies": {
     "jest": "^28.1.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.26.0"
   }
 }
