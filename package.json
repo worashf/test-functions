@@ -1,0 +1,24 @@
+{
+  "name": "test-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": " stringLength.js",
+  "type":"module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/worashf/test-functions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/worashf/test-functions/issues"
+  },
+  "homepage": "https://github.com/worashf/test-functions#readme",
+  "dependencies": {
+    "jest": "^28.1.1"
+  }
+}
